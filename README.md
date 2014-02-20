@@ -10,7 +10,7 @@ Install:
 
 ## Alternatively on Linux (if you have git install) you can run this commands:
      cd .config/sublime-text-2/Packages/
-     git clone https://github.com/agrigoroi/sublimearm.git
+     git clone https://github.com/allejo/sublimearm.git
      
 Still to do
 -----------
